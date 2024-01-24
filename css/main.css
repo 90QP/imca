@@ -139,7 +139,7 @@ section:after {
 }
 .fourth .item:after { border-radius: 50%;}
 .fourth .item:nth-child(1):after { background-color: rgba(0, 212, 198, 0.8) }
-.fourth .item:nth-child(2):after { background-color: rgba(0, 255, 0, 0.8) }
+.fourth .item:nth-child(2):after { background-color: rgba(8, 170, 8, 0.8) }
 .fourth .item:nth-child(3):after { background-color: rgba(41, 124, 200, 0.8) }
 .fourth .item:nth-child(4):after { background-color: rgba(82, 87, 158, 0.8) }
 
